@@ -1,0 +1,6 @@
+#!/bin/bash
+
+chezmoi -- init --apply --source $PWD
+
+exit 0
+
