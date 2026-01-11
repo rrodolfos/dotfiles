@@ -1,0 +1,7 @@
+[tools]
+age = "latest"
+aws = { version = "latest", symlink_bins = "true" }
+packer = "latest"
+sops = "latest"
+starship = "latest"
+terraform = "latest"
